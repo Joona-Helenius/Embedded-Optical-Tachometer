@@ -1,9 +1,7 @@
 # Embedded-Optical-Tachometer
 
-Group Members
+### Group Members:
 
-#### Joona Helenius, 
-#### Oona Leppänen, 
-#### Valtteri Virtanen
-
-joalhel@utu.fi, oklepp@utu.fi, vamivir@utu.fi
+#### Joona Helenius     joalhel@utu.fi
+#### Oona Leppänen      oklepp@utu.fi
+#### Valtteri Virtanen  vamivir@utu.fi
