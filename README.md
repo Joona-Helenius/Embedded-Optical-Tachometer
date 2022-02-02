@@ -2,6 +2,6 @@
 
 Group Members
 
-###Joona Helenius        joalhel@utu.fi
-###Oona Leppänen         oklepp@utu.fi
-###Valtteri Virtanen     vamivir@utu.fi
+Joona Helenius, 
+Oona Leppänen, 
+Valtteri Virtanen
